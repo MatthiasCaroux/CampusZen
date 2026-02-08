@@ -14,8 +14,6 @@ Une plateforme multilingue pour soutenir la santé mentale des étudiants en Afr
 
 </div>
 
----
-
 ## 📋 Table des matières
 
 - [À propos du projet](#-à-propos-du-projet)
@@ -24,21 +22,15 @@ Une plateforme multilingue pour soutenir la santé mentale des étudiants en Afr
 - [Objectifs qualitatifs](#-objectifs-qualitatifs)
 - [Objectifs quantitatifs](#-objectifs-quantitatifs)
 - [Architecture technique](#-architecture-technique)
-- [Logos et partenaires](#-logos-et-partenaires)
-
----
+- [Partenaires](#-partenaires)
 
 ## 🎯 À propos du projet
 
 **CampusZen** est une application mobile innovante conçue pour aider les étudiants à suivre et améliorer leur bien-être mental au quotidien. Utilisant une interface intuitive basée sur une « météo émotionnelle », l'application propose un suivi personnalisé de l'état mental, des ressources localisées et une interface de mise en relation avec des professionnels.
 
----
-
 ## 👥 Demandeur
 
 **Équipe projet Mama_Africa**
-
----
 
 ## 📍 Contexte et objectif
 
@@ -55,8 +47,6 @@ CampusZen s'inscrit dans le cadre du projet **Mama_Africa** dédié à la santé
 
 Fournir aux étudiants les outils ancrés dans les contextes **socio-économique, culturelle et politique** pour prendre soin de leur santé mentale au quotidien.
 
----
-
 ## ✅ Objectifs qualitatifs
 
 - **Multilingue et accessible** : Français, Anglais et Arabe
@@ -64,14 +54,10 @@ Fournir aux étudiants les outils ancrés dans les contextes **socio-économique
 - **Messages d'encouragement** : Messages personnalisés en fonction de l'évaluation précédente pour encourager l'étudiant ou demander de l'aide
 - **Cartographie des ressources** : Localisation des ressources existantes pertinentes (services médicaux, services sociaux, associations, etc.) avec évaluation du temps de trajet et des coûts d'accès depuis la localisation de l'étudiant
 
----
-
 ## 📊 Objectifs quantitatifs
 
 - **Nombre d'utilisateurs attendus** : 10 000 étudiants au démarrage
 - **Nombre de téléchargements** : 5 000 au démarrage
-
----
 
 ## 🚀 Fonctionnalités
 
@@ -155,9 +141,7 @@ CampusZen/
 - **Styling** : Tailwind CSS
 - **Serveur** : Node.js avec Nginx
 
----
-
-## 🏫 Logos et partenaires
+## 🏫 Partenaires
 
 ### Financement
 
