@@ -25,7 +25,6 @@ Une plateforme multilingue pour soutenir la santé mentale des étudiants en Afr
 - [Objectifs quantitatifs](#-objectifs-quantitatifs)
 - [Architecture technique](#-architecture-technique)
 - [Logos et partenaires](#-logos-et-partenaires)
-- [Support et documentation](#-support-et-documentation)
 
 ---
 
@@ -173,16 +172,6 @@ CampusZen/
 ### Universités partenaires
 
 Universités dans les zones de déploiement (Sénégal, Cameroun, RDC, Ghana, Algérie)
-
----
-
-## 📚 Support et documentation
-
-### Documentation spécifique
-
-- [Backend API Documentation](./backend/README.md)
-- [Frontend Documentation](./frontend/README.md)
-- [Module Admin Documentation](./module_admin/README.md)
 
 ## Auteurs
 - Enzo Familiar-Marais
