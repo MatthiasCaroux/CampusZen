@@ -6,3 +6,6 @@
 	path = frontend
 	url = https://github.com/MatthiasCaroux/campus_zen_frontend.git
     branch = main
+[submodule "module_admin"]
+	path = module_admin
+	url = https://github.com/MatthiasCaroux/module_admin_campus_zen.git
